@@ -1,0 +1,11 @@
+.btn {
+  display: block;
+  margin: 25px auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+  font-size: 15px;
+}
